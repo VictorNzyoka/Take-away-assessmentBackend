@@ -21,7 +21,7 @@ router.post("/create-assessment", async (req, res) => {
     try {
         const { title, strand, subStrand, date, completion, allDay, alert } = req.body;
 
-        console.log(req.body);
+        // console.log(req.body);
 
         if (!title || !strand || !subStrand || !date) {
             return res.status(400).json({ success: false, message: "Missing required fields" });
