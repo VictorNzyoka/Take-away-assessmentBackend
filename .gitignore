@@ -1,0 +1,76 @@
+# Node modules
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build output
+android/app/build/
+ios/build/
+
+# Bundler caches
+metro-cache/
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+ios/Pods/
+
+# Misc
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code
+.vscode/# Node modules
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build output
+android/app/build/
+ios/build/
+
+# Bundler caches
+metro-cache/
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+ios/Pods/
+
+# Misc
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code
+.vscode/
+
+# Mac
+*.swp
+
+
+# Mac
+*.swp
